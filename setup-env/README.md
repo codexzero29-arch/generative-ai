@@ -1,4 +1,4 @@
-# Setup instructions to use Generative AI on Google Cloud
+ # Setup instructions to use Generative AI on Google Cloud
 
 This folder contains instructions on:
 
