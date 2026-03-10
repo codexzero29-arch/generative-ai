@@ -29,3 +29,4 @@ The `gemini_data_analytics` directory contains notebooks that demonstrate how to
 
 - [Intro to Gemini Data Analytics (HTTP)](gemini_data_analytics/intro_gemini_data_analytics_http.ipynb): An introduction to using Gemini for data analytics with the HTTP API.
 - [Intro to Gemini Data Analytics (SDK)](gemini_data_analytics/intro_gemini_data_analytics_sdk.ipynb): An introduction to using Gemini for data analytics with the Python SDK.
+
