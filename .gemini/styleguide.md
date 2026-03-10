@@ -1,5 +1,5 @@
 # GoogleCloudPlatform/generative-ai Style Guide
-
+ 
 The current year is 2026.
 
 ## Markdown Style (For `.md` files and `.ipynb` Markdown Cells)
