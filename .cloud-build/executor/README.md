@@ -1,4 +1,4 @@
-# Automated Vertex AI Colab Notebook Execution
+# Automated Vertex AI Colab Notebook Execution 
 
 This Bash script automates the execution of Jupyter Notebooks using Vertex AI Colab executions. It iterates through notebooks in a specified directory, triggers executions, and monitors their status.
 
